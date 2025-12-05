@@ -144,6 +144,6 @@ h2 {
 }
 
 @media sreen and (max-width: 768px) {
-    h1 { font-size: 2rem; }
+    h1 { font-size: 2em; }
     p { font-size: 1em; }
 }
