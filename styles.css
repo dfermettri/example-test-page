@@ -27,6 +27,7 @@ body {
     width: 100%;
     height: 3%;
     text-align:center;
+    min-height: 1.8em;
 }
 
 .navbar ul{
@@ -34,6 +35,7 @@ body {
     justify-content:center;
     padding-top:0.25em;
     gap:2rem;
+    margin-right:2.5rem;
 }
 
 
@@ -137,6 +139,7 @@ h2 {
     gap:10px;
     background-color:#343A40;
     color:#6C757D;
+    padding-right:1em;
 }
 
 .social a:hover{
