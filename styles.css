@@ -14,8 +14,8 @@ body {
     grid-template-columns:1fr;
     grid-template-areas:"navbar" "welcome-section" "project-section" "contact";
     gap:20px;
-    background-color:white;
-    color:black;
+    background-color:#272727;
+    color:white;
     margin-top:3em;
 }
 
